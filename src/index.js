@@ -2,7 +2,7 @@
 
 const { resolve } = require('path')
 const debug = require('debug')('koa-views')
-const consolidate = require('consolidate')
+const consolidate = require('tsj-consolidate')
 const send = require('koa-send')
 const getPaths = require('get-paths')
 const pretty = require('pretty')
