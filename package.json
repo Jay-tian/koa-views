@@ -1,5 +1,5 @@
 {
-  "name": "koa-views",
+  "name": "tsj-koa-views",
   "version": "6.1.4",
   "description": "Template rendering middleware for koa",
   "main": "src/index.js",
