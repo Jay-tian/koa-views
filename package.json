@@ -10,7 +10,7 @@
   },
   "precommit": "lint, test",
   "dependencies": {
-    "tsj-consolidate": "^1.0.0",
+    "tsj-consolidate": "^1.0.1",
     "debug": "^3.1.0",
     "get-paths": "^0.0.2",
     "koa-send": "^4.0.0",
